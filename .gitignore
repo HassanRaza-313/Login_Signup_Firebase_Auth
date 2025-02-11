@@ -41,34 +41,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# google services json file
-{
-  "project_info": {
-    "project_number": "129262016774",
-    "project_id": "demo1-64f04",
-    "storage_bucket": "demo1-64f04.firebasestorage.app"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:129262016774:android:17a87da3e1375ade842687",
-        "android_client_info": {
-          "package_name": "com.example.login_signup_firebase_auth"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": ""
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
-}
